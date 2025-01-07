@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Here's a suggestion for your GitHub bio:<br><br>🌟 About Me<br>👨‍💻 Web Developer | Tech Enthusiast | Innovator<br>💡 Passionate about leveraging technology for real-world impact. Skilled in HTML, CSS, and PHP, with a mission to develop advanced systems like a Rainwater Measurement System to enhance community safety and resilience.
+<br>Here's a suggestion for your GitHub bio:<br><br>🌟 About Me<br>👨‍💻 Web Developer | Tech Enthusiast | Innovator<br>💡 Passionate about leveraging technology for real-world impact. Skilled in HTML, CSS, and PHP
 
 
 ## 🌐 Socials:
